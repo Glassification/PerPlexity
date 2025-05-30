@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PerPlexity": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\TomBe\\OneDrive\\Documents\\perplexity_test\\1.1_this.is.the.first.episode.720p.txt\" 0"
+    }
+  }
+}
